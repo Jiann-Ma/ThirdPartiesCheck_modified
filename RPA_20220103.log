@@ -1,0 +1,197 @@
+2022-01-03 15:34:07 - run.py[line:144] - INFO: 代刚家Α:False
+2022-01-03 15:34:26 - run.py[line:131] - ERROR: 'MyApp' object has no attribute 'list_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 105, in check
+    if len(self.list_path) == 0:
+AttributeError: 'MyApp' object has no attribute 'list_path'
+2022-01-03 15:34:26 - run.py[line:149] - WARNING: 浪琩ぃ硄筁
+2022-01-03 15:34:26 - run.py[line:160] - INFO: Total Execution time:0:00:18
+2022-01-03 15:38:29 - run.py[line:140] - INFO: 代刚家Α:False
+2022-01-03 15:38:29 - run.py[line:140] - INFO: 代刚家Α:False
+2022-01-03 15:38:29 - run.py[line:148] - ERROR: 'MyApp' object has no attribute 'input_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 141, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 101, in check
+    self.path = self.input_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'input_path'
+2022-01-03 15:38:29 - run.py[line:148] - ERROR: 'MyApp' object has no attribute 'input_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 141, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 101, in check
+    self.path = self.input_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'input_path'
+2022-01-03 15:38:32 - run.py[line:156] - INFO: Total Execution time:0:00:02
+2022-01-03 15:38:32 - run.py[line:156] - INFO: Total Execution time:0:00:02
+2022-01-03 15:51:56 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 15:51:56 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 15:51:56 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 15:51:56 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 15:51:56 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 15:51:56 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 15:51:57 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 15:51:57 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 15:51:57 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 16:41:15 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:41:15 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:41:15 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:41:15 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:41:15 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:41:15 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:41:15 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:41:15 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:41:16 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 16:41:16 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 16:41:16 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 16:41:16 - run.py[line:163] - INFO: Total Execution time:0:00:01
+2022-01-03 16:48:10 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:10 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:10 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:10 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:10 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:10 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:10 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:10 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:10 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:10 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:10 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:10 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:13 - run.py[line:163] - INFO: Total Execution time:0:00:02
+2022-01-03 16:48:13 - run.py[line:163] - INFO: Total Execution time:0:00:02
+2022-01-03 16:48:13 - run.py[line:163] - INFO: Total Execution time:0:00:02
+2022-01-03 16:48:13 - run.py[line:163] - INFO: Total Execution time:0:00:02
+2022-01-03 16:48:13 - run.py[line:163] - INFO: Total Execution time:0:00:02
+2022-01-03 16:48:13 - run.py[line:163] - INFO: Total Execution time:0:00:02
+2022-01-03 16:48:16 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:16 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:16 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:16 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:16 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:16 - run.py[line:147] - INFO: 代刚家Α:False
+2022-01-03 16:48:16 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:16 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:16 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:16 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:16 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:16 - run.py[line:155] - ERROR: 'MyApp' object has no attribute 'file_path'
+Traceback (most recent call last):
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 148, in run
+    if self.check() == True:
+  File "Y:\獀瞶砏购场\MJT\RPA\UI\run.py", line 108, in check
+    self.path = self.file_path.get().strip()
+AttributeError: 'MyApp' object has no attribute 'file_path'
+2022-01-03 16:48:17 - run.py[line:163] - INFO: Total Execution time:0:00:00
+2022-01-03 16:48:17 - run.py[line:163] - INFO: Total Execution time:0:00:00
+2022-01-03 16:48:17 - run.py[line:163] - INFO: Total Execution time:0:00:00
+2022-01-03 16:48:17 - run.py[line:163] - INFO: Total Execution time:0:00:00
+2022-01-03 16:48:17 - run.py[line:163] - INFO: Total Execution time:0:00:00
+2022-01-03 16:48:17 - run.py[line:163] - INFO: Total Execution time:0:00:00
